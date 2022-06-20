@@ -1,0 +1,10 @@
+package com.spring.mysql.api.controller;
+
+import org.springframework.web.bind.annotation.RestController;
+import com.spring.mysql.api.dao.EmployeDao;
+@RestController
+public class EmployeeController {
+	
+	private EmployeDao dao;
+	
+}

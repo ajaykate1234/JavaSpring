@@ -1,0 +1,6 @@
+
+spring.datasource.dbcp2.driver-class-name=
+spring.datasource.data-password=
+spring.datasource.password=
+spring.datasource.url=
+spring.jpa.hibernate.ddl-auto=update

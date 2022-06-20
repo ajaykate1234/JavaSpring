@@ -1,0 +1,7 @@
+package com.spring.mysql.api.dao;
+
+import org.springframework.data.repository.CrudRepository;
+
+public interface EmployeDao extends CrudRepository<EMployee, Integer> {
+
+}
